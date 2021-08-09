@@ -2,7 +2,7 @@
 
 React-Redux App to display some blog posts.
 
-This is to understand purpose of reducers, making API request with Redux and purpose of redux-thunk (middleware). Request are implemented using the Axios and API used is JSONPlaceholder API (jsonplaceholder.typicode.com).
+This is to understand purpose of reducers, making API request with Redux and purpose of redux-thunk (middleware). Request are implemented using the Axios and API used is JSONPlaceholder API (jsonplaceholder.typicode.com). The middleware help to make request in a Redux application.
 
 # Clone the project using Git
 
@@ -31,4 +31,4 @@ from browser: localhost:3000
 
 > cd blog
 
-> npm install --save redux react-redux
+> npm install --save redux react-redux axios redux-thunk
