@@ -31,4 +31,4 @@ from browser: localhost:3000
 
 > cd blog
 
-> npm install --save redux react-redux axios redux-thunk
+> npm install --save redux react-redux axios redux-thunk lodash
